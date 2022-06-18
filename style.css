@@ -270,14 +270,14 @@ a
     list-style: none;
 	position: absolute;
     top: 1500px;
-	right: 600px;
+	right: 500px;
 }
 
 .krug_one
 {
     position: absolute;
     top: 1700px;
-	left: 200px;
+	left: 150px;
 }
 
 .text_krug_one
@@ -287,7 +287,7 @@ a
     text-shadow: 1px 0 1px #000;
     position: absolute;
     top: 1930px;
-	left: 258px;
+	left: 208px;
 }
 
 .text_krug_one_text
@@ -298,14 +298,14 @@ a
     position: absolute;
     text-align: center;
     top: 1980px;
-	left: 151px;
+	left: 100px;
 }
 
 .krug_second
 {
     position: absolute;
     top: 1700px;
-	left: 670px;
+	left: 615px;
 }
 
 .text_krug_second
@@ -315,7 +315,7 @@ a
     text-shadow: 1px 0 1px #000;
     position: absolute;
     top: 1930px;
-	left: 730px;
+	left: 680px;
 }
 
 .text_krug_second_text
@@ -326,14 +326,14 @@ a
     position: absolute;
     text-align: center;
     top: 1980px;
-	left: 620px;
+	left: 570px;
 }
 
 .krug_third
 {
     position: absolute;
     top: 1700px;
-	left: 1200px;
+	left: 1100px;
 }
 
 .text_krug_third
@@ -343,7 +343,7 @@ a
     text-shadow: 1px 0 1px #000;
     position: absolute;
     top: 1930px;
-	left: 1260px;
+	left: 1160px;
 }
 
 .text_krug_third_text
@@ -354,5 +354,19 @@ a
     position: absolute;
     text-align: center;
     top: 1980px;
-	left: 1150px;
+	left: 1060px;
+}
+
+.Graphics_Body_Third_Graphics
+{
+    position: absolute;
+    top: 1500px;
+	right: 0px;
+}
+
+.Graphics_Body_Third_Graphics_Second
+{
+    position: absolute;
+    top: 1500px;
+	left: 0px;
 }
