@@ -492,3 +492,68 @@ a
     top: 0px;
     right: 0px;   
 }
+
+.body_fourth_main_text
+{
+    position: absolute;
+    top:3100px;
+    left: 150px;
+    font-size: 80px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: center;
+}
+
+.body_fourth_text
+{
+    position: absolute;
+    top:3240px;
+    left: 153px;
+    font-size: 22px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+
+.body_holder_fourth
+{
+    top: 3380px;
+	left: 90px;  
+    list-style: none;
+	position: absolute;
+    width: 250px;
+    height: 40px;
+    background: linear-gradient(to bottom, #fdb7ff 0%,#fcadff 100%); /* W3C */
+    border: none;
+    border-radius: 5px;
+    border-bottom: 4px solid #fb7bff;
+    color: #fbfbfb;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    font-size: 20px;
+    text-align: center;
+    text-indent: 5px;
+    box-shadow: 0px 3px 0px 0px rgba(0,0,0,.2);
+    cursor: pointer; 
+}
+
+.img_fourth
+{
+    position: absolute;
+    top: 3050px;
+    right: 150px;   
+}
+
+.img_body_graphics
+{
+    margin-left: 0px;
+    margin-top:550px;
+}
+
+.img_body_graphics_one
+{
+    position: absolute;
+    top:2889px;
+    right:0px;
+}
