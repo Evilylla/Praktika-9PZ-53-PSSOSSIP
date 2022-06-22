@@ -15,6 +15,16 @@
     background-repeat: no-repeat;
 }
 
+.body_container_sixth
+{
+    position: absolute;
+    top:4320px;
+    width: 100%;
+    height: 720px;
+    background-image: url("images/background_sixth.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 .body_container_fourth
 { 
     width: 100%;
@@ -23,6 +33,15 @@
     background-size: 100%;
     background-repeat: no-repeat;
     margin-top: 720px;
+}
+.body_container_fives
+{
+    width: 100%;
+    height: 720px;
+    background-image: url("images/background_fives.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 0px;
 }
 
 .body_container_first
@@ -556,4 +575,89 @@ a
     position: absolute;
     top:2889px;
     right:0px;
+}
+
+.nixao
+{
+    margin-top: 150px;
+    margin-left:600px;
+    height: 200px;
+    width: 200px;
+}
+
+.body_container_fives_text
+{
+    margin-bottom: 100px;
+    font-size: 33px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: center;
+}
+
+.body_container_fives_text_dop
+{
+    position: absolute;
+    top:4200px;
+    right: 585px;
+    font-size: 60px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: center;
+}
+.body_container_sixth_text_main
+{
+    position: absolute;
+    left: 500px;
+    margin-top: 150px;
+    font-size: 60px;
+    color:  rgb(0, 0, 0);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+.body_container_sixth_text_dop
+{
+    position: absolute;
+    left: 335px;
+    margin-top: 250px;
+    font-size: 30px;
+    color:  rgb(0, 0, 0);
+    text-shadow: 1px 0 1px #000;
+    text-align: center;
+}
+.body_container_sixth_send_email
+{   
+    margin-top:350px;
+    position: absolute;
+    left: 400px;
+    width: 400px;
+    height: 40px;
+}
+.body_holder_sixth
+{
+    margin-top: -221px;
+	left: 760px;  
+	position: absolute;
+    width: 250px;
+    height: 45px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    text-indent: 5px;
+    box-shadow: 0px 3px 0px 0px rgb(0, 0, 0);
+    cursor: pointer; 
+}
+
+.body_sixth_graphics
+{
+    position: absolute;
+    top:385px;
+    margin-left: 0px;
+}
+.body_sixth_graphics_second
+{
+    position: absolute;
+    top: 50px;
+    right: 0px;
 }
