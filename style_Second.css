@@ -1,0 +1,148 @@
+body
+{
+    background-color: #80e6ff;
+}
+
+.second-page-container
+{
+    position: absolute;
+    left: 520px;
+    top: 100px;
+    width: 400px;
+    height: 450px;
+    background-color: white;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  form {
+    padding: 1em;
+    background: #f9f9f9;
+    border: 0px solid #c1c1c1;
+    margin-top: 2rem;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+  }
+  form input {
+    margin-bottom: 1rem;
+    background: #fff;
+    border: 1px solid #9c9c9c;
+  }
+  form button {
+    background: #80e6ff;
+    padding: 0.7em;
+    border: 0;
+  }
+  form button:hover {
+    background: gold;
+  }
+  
+  label {
+    text-align: right;
+    display: block;
+    padding: 0.5em 1.5em 0.5em 0;
+  }
+  
+  input {
+    width: 100%;
+    padding: 0.7em;
+    margin-bottom: 0.5rem;
+  }
+  input:focus {
+    outline: 3px solid gold;
+  }
+  
+  @media (min-width: 400px) {
+    form {
+      overflow: hidden;
+    }
+  
+    label {
+      float: left;
+      width: 200px;
+    }
+  
+    input {
+      float: left;
+      width: calc(100% - 200px);
+    }
+  
+    button {
+      float: right;
+      width: calc(100% - 200px);
+    }
+  }
+
+  .text_second_page
+{
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    text-indent: 5px;
+    box-shadow: 0px 3px 0px 0px rgb(0, 0, 0);
+    cursor: pointer; 
+}
+
+.return
+{
+    
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    text-indent: 5px;
+    box-shadow: 0px 3px 0px 0px rgb(0, 0, 0);
+    cursor: pointer; 
+}
+
+.return_to
+{   
+    margin-left: 123px;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+a
+{
+    text-decoration: none;
+    color: #80e6ff;
+}
+
+.Graphics_second_page
+{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.Graphics_second_page_second
+{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.Graphics_second_page_third
+{
+    position: absolute;
+    left: 500px;   
+}
+
+.Graphics_second_page_fourth
+{
+    position: absolute;
+    left: 0px;
+    top:0px;
+}
+.Graphics_second_page_fives
+{
+    position: absolute;
+    right: 0px;
+    top:0px;
+}

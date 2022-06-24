@@ -721,3 +721,97 @@ a
     width: 46px;
     height: 46px;
 }
+
+.About
+{
+    position: absolute;
+    top: 210px;
+    left: 700px;
+    font-size: 30px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+
+.li_first
+{
+    padding-top: 20px;
+    font-size: 20px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+
+.Services
+{
+    position: absolute;
+    top: 210px;
+    left: 900px;
+    font-size: 30px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+
+.li_second
+{
+    padding-top: 20px;
+    font-size: 20px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+
+.Other
+{
+    position: absolute;
+    top: 210px;
+    left: 1100px;
+    font-size: 30px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+
+.li_third
+{
+    padding-top: 20px;
+    font-size: 20px;
+    color:  rgb(255, 255, 255);
+    text-shadow: 1px 0 1px #000;
+    text-align: left;
+}
+
+
+
+
+
+.body_register
+{
+    position:absolute;
+    top:600px;
+    right: 650px;
+
+}
+
+.reg_button
+{
+    position: absolute;
+    right: 630px;
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(to bottom, #868b38 0%,#a1ad30 100%); /* W3C */
+    border: none;
+    border-radius: 5px;
+    border-bottom: 4px solid #90981d;
+    color: #000000;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    font-size: 20px;
+    text-align: center;
+    text-indent: 5px;
+    box-shadow: 0px 3px 0px 0px rgba(0,0,0,.2);
+    cursor: pointer;
+}
+
